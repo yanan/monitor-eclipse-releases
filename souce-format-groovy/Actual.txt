@@ -1,0 +1,3 @@
+[INFO] --- com.liferay.source.formatter:1.0.694:format (default-cli) @ com.liferay.build.source.formatter ---
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
